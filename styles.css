@@ -1,6 +1,5 @@
 main {
   max-width: 840px;
-  margin: 0 auto;
 }
 
 aside {
@@ -19,10 +18,8 @@ aside img {
 }
 
 main img {
-  display: block;
   width: 150px;
   height: auto;
-  margin: 0 0 0 1.5rem;
 }
 
 p {
